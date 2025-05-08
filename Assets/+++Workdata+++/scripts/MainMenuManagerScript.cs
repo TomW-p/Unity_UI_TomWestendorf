@@ -14,9 +14,9 @@ public class MainMenuManagerScript : MonoBehaviour
 
     [HideInInspector] public string notVisibleInInspector = "ich bin unsichtbar im Inspektor.";
     
-    private bool _lightIsOn;
-    private int amountOfStudentsInClass101 = 15;
-    private float pivotPositionOfMyFirstButton = 0.5f;
+    //vate bool _lightIsOn;
+    //private int amountOfStudentsInClass101 = 15;
+    //private float pivotPositionOfMyFirstButton = 0.5f;
 
     #endregion
     
